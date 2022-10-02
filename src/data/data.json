@@ -1,0 +1,48 @@
+{
+  "users": [
+    {
+      "name": "oan sajjad",
+      "email": "oansajjad110@gmail.com",
+      "password": "oanoan12",
+      "id": 1
+    },
+    {
+      "name": "Umair Badar",
+      "email": "umair.badar@gmail.com",
+      "password": "umair110",
+      "id": 2
+    },
+    {
+      "name": "zohaib tariq",
+      "email": "zohaib.tariq@trax.pk",
+      "password": "oanoan12",
+      "id": 3
+    },
+    {
+      "name": "farukh sajjad",
+      "email": "farukhsajjad110@gmail.com",
+      "password": "oanoan12",
+      "id": 4
+    }
+  ],
+  "retails": [
+    {
+      "id": 1,
+      "name": "retail center 1",
+      "contact": "(021) 111 118 729",
+      "address": "Plot # 105, Mehran Town Sector 7 A Korangi, Karachi, Karachi City, Sindh 74900"
+    },
+    {
+      "id": 1,
+      "name": "retail center 2",
+      "contact": "0344 4420580",
+      "address": "PLOT 38 - C SHOP NO 06 MAIN SOUTH PARK, EXT, D.H.A. Phase 2 Phase 2 Defence Housing Authority, Karachi, Karachi City, Sindh 75500"
+    },
+    {
+      "name": "retail center 3",
+      "contact": "(021) 111 118 729",
+      "address": "johar town, lahore",
+      "id": 2
+    }
+  ]
+}
